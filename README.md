@@ -13,3 +13,16 @@ A group project for module CS3244 Machine Learning 2021 Semester 1. Obtained top
 ## Dataset
 The dataset is from Kaggle: [Sarcasm on Reddit](https://www.kaggle.com/danofer/sarcasm)
 
+## References
+<a id="1">[1]</a> 
+Sundararajan, K., & Palanisamy, A. (2020).
+Multi-rule based ensemble feature selection model for sarcasm type detection in Twitter.
+
+
+<a id="2">[2]</a> 
+Sarsam, S. M., et. al. (2020).
+Sarcasm detection using machine learning algorithms in Twitter: A systematic review.
+
+<a id="3">[3]</a> 
+Poria, S., Cambria, E., Hazarika, D., Vij, P. (2017).
+A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks.
